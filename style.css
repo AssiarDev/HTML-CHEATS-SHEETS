@@ -9,11 +9,30 @@ h1 {
     color: goldenrod;
 }
 
+h2 {
+    font-family: 'Chakra Petch';
+    font-size: 32px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.semantic {
+    text-align: left;
+    font-size: 20px;
+
+}
+
 p {
-    text-align: center;
     font-size: 18px;
     font-family: 'Chakra Petch';
-    font-weight: bold;
+}
+
+img{
+    margin-left: 100px;
+    padding: auto;
+    float: right;
+    width: 30%
+    
 }
 
 table,
@@ -27,9 +46,15 @@ th{
     font-family: 'Chakra Petch';
 }
 
+.structure {
+    width: 50%;
+    margin: 0 auto;
+}
+
 .centerTable {
     width: 50%;
-    margin: 0% auto;
+    padding: 200px;
+    margin: 0 auto;
 }
 
 th {
